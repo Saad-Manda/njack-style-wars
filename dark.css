@@ -207,7 +207,6 @@ section:nth-of-type(3) > div > div {
   border: 1px solid #21242c;
   margin-bottom: 1.5rem;
   position: relative;
-  overflow: hidden;
 }
 section:nth-of-type(3) > div > div:hover {
   transform: translateY(-8px) scale(1.025);
